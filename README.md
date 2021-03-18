@@ -3,4 +3,4 @@
 
  Windows instalador.bat
  
- Ubuntu 18.04 install-1804.sh
+ Linux ubuntu18_04.sh
