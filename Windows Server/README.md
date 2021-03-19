@@ -20,7 +20,7 @@ No caso acima, precisava guardar a *__Pasta Especial__* localizada no disco C: (
 
 /V = Produz a saída detalhada e mostra todos os arquivos ignorados.
 
-/log = Geralmente substitui o arquivo de log, porém, como faço zera diferentes toda vez =)
+/log = Geralmente substitui o arquivo de log, porém, como faço cria diferente toda vez =)
 
 
 ---
