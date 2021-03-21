@@ -34,6 +34,24 @@ ou
 
 ~~Entre outros~~ = `~~Entre outros~~` (Riscado)
 
+---
+1. Primeiro  `1. Primeiro`
+0. Segundo   `0. Primeiro`
+2. Terceiro  `2. Primeiro`
+
+Precisamos colocar paenas um numero (1) seguido de um pornto (.).
+
+* Marcador principal     `* Marcador principal`
+  * Marcador segundario  `  * Marcador principal` (com tab)
+
+
+[ ] Tarefa pendente  `[ ] Tarefa pendente`
+[x] Tarefa feita     `[x] Tarefa feita`
+
+
+
+
+
 
 
 
