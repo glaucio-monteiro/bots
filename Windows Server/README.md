@@ -24,7 +24,7 @@ No caso acima, precisava guardar a *__Pasta Especial__* localizada no disco C: (
 
 
 ---
-Obrigado Microsoft!
+Obrigado[ Microsoft](https://github.com/microsoft)!
 
 Obrigado [olprod](https://github.com/olprod)!
 
