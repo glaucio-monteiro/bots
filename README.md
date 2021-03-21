@@ -45,8 +45,8 @@ Precisamos colocar paenas um numero (1) seguido de um pornto (.).
   * Marcador segundario  `  * Marcador principal` (com tab)
 
 
-[ ] Tarefa pendente  `[ ] Tarefa pendente`
-[x] Tarefa feita     `[x] Tarefa feita`
+-[ ] Tarefa pendente  `[ ] Tarefa pendente`
+-[x] Tarefa feita     `[x] Tarefa feita`
 
 
 
