@@ -1,7 +1,7 @@
 # .md = Markdown "`# .md = Markdown`"
 Extensão .md ou .markdown; 
 
-O nome do da extensão diz muito sobre não? :nerd_face: `:nerd_face:`
+O nome da extensão diz muito sobre não? :nerd_face: `:nerd_face:`
 
 Mostrarei os prinicipais comandos dessa linguagem:
 
