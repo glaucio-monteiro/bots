@@ -3,7 +3,7 @@
 
 
 # ROBOCOPY
-## Usamos para backup de dados com a Ajuda do Gerenciado de Tarefas
+## Usamos para backup de dados com a Ajuda do Gerenciador de Tarefas
 ---
 ### Sintax
 ```robocopy <source> <destination> [<file>[ ...]] [<options>]```
