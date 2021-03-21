@@ -48,6 +48,7 @@ Precisamos colocar paenas um numero (1) seguido de um pornto (.).
 - [ ] Tarefa pendente  `- [ ] Tarefa pendente`
 - [x] Tarefa feita     `- [x] Tarefa feita`
 
+***
 
 
 
