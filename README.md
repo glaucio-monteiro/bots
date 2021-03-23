@@ -68,4 +68,10 @@ Feijão | 4 | R$ 7,00
 ---
 ---
 
-Obrigado [Professor Guanabara](https://github.com/gustavoguanabara)
+Obrigado [Professor Guanabara](https://github.com/gustavoguanabara)!!
+Aprendi no canal dele do Youtube, visita lá!
+[Curso em Video](https://www.youtube.com/watch?v=X7WMSfEfZGg&list=PLHz_AreHm4dnGZ_nudmN4rvyLk2fHFRzy).
+
+No caso de querer  aprender mais, tem muito mais no [repositório](https://github.com/gustavoguanabara/git-githuby) do professor =)
+
+Feito apenas para práticar! 
