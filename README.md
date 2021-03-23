@@ -6,7 +6,7 @@ O nome da extensão diz muito sobre não? :nerd_face: `:nerd_face:`
 Mostrarei os prinicipais comandos dessa linguagem:
 
 ## Titulo 2  "`## Titulo 2`"
-feito conforme fiz acima quando utilizei para fazer o titulo 1.
+feito conforme fiz acima quando utilizei para fazer o titulo 1nerd_face.
 
 ### Titulo 3 "`### Titulo 3`"
 Seguindo a mesma lógica ai de cima.
@@ -50,9 +50,22 @@ Precisamos colocar paenas um numero (1) seguido de um pornto (.).
 
 ***
 
+### Tabela de compras   ->    `### Tabela de compras`
+
+Item | Quantidade | Valor
+---|---|---
+Arroz | 2 | R$ 25,00
+Feijão | 4 | R$ 7,00
 
 
+```
+Item | Quantidade | Valor
+---|---|---
+Arroz | 2 | R$ 25,00
+Feijão | 4 | R$ 7,00
+```
 
+---
+---
 
-
-
+Obrigado [Professor Guanabara](https://github.com/gustavoguanabara)
