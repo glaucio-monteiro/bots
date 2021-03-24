@@ -1,8 +1,12 @@
-Converter install.esd para install.wim com Dism
-1) Coloquei o arquivo install.esd em Documentos:
+# Converter install.esd para install.wim com Dism
 
-C:\Users\Administrador\Documents>dism /get-wiminfo /wimfile:install.esd
+### 1) Coloquei o arquivo install.esd em Documentos:
 
+
+### 2) Abrir o terminal (ir até o local `cd`), executar o comando abaixo:
+C:\Users\GlaucioUsuario\Documents> `dism /get-wiminfo /wimfile:install.esd`
+
+```
 Ferramenta de Gerenciamento e Manutenção de Imagens de Implantação
 Versão: 6.3.9600.19408
 
@@ -29,3 +33,4 @@ Descrição : Windows 10 Pro
 Tamanho : 15.616.924.077 bytes
 
 A operação foi concluída com êxito.
+```
